@@ -7,9 +7,6 @@ using namespace std;
 int main(){
     int y,x,r=0;
 
-    //Commentari per modificar el fitxer
-
-
     cout <<"Dime el numero x"<<endl;
     cin>>x;
     cout <<"Dime el numero y"<<endl;
